@@ -1,0 +1,2 @@
+# KrushiMitra
+Agristore Management system
